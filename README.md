@@ -1,6 +1,8 @@
 # BART Webinars 
 
-This repository contains information and materials for the [BART](http://mrirecon.github.io/bart) webinars.
+This repository contains information and materials for the [BART](http://mrirecon.github.io/bart) webinars:
+
+https://mrirecon.github.io/bart/webinars.html
 
 ## First Webinar: June 1 and 2, 8-10am PST
 
