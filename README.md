@@ -5,6 +5,7 @@ This repository contains information and materials for the [BART](http://mrireco
 https://mrirecon.github.io/bart/webinars.html
 
 ## First Webinar: June 1 and 2, 8-10am PST
+Local time: [Click here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=BART+Webinar&iso=20200601T08&p1=791&ah=2)
 
 ### Schedule: Day 1
 - Introduction
