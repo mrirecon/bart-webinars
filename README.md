@@ -9,12 +9,19 @@ Local time: [Click here](https://www.timeanddate.com/worldclock/fixedtime.html?m
 
 ### Schedule: Day 1
 - Introduction
-- Where to find docs, examples, and help
-- Discussion of file format and dimensions  
-- Working with CLI tools and Matlab/Python wrappers  
-- Data preprocessing  
-- Compressed Sensing and non-Cartesian MRI reconstruction  
-- GRASP-like MRI reconstruction  
+
+- Part 1:
+  - Where to find docs, examples, and help
+  - Discussion of file format and dimensions
+
+- Part 2:
+  - Working with CLI tools and Matlab/Python wrappers
+  - Data preprocessing
+
+- Part 3: [Jupyter Notebook](./day1_advanced_recon.ipynb)  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mrirecon/bart-webinars/master?filepath=day1_advanced_recon.ipynb)
+  - Compressed Sensing and non-Cartesian MRI reconstruction
+  - GRASP-like MRI reconstruction
+
 - Q&A and Conclusion
 
 ### Schedule: Day 2
