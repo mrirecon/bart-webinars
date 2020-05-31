@@ -1,0 +1,8 @@
+# Dimensions
+308 308 1 1 1 1 1 1 1 1 100 1 1 1 1 1 
+# Command
+pics -R T:1024:0:0.01 -u10. -i50 -t traj kspace data/sens data/img 
+# Files
+ >data/img <traj <data/sens <kspace
+# Creator
+BART v0.5.00-105-g959ef283
