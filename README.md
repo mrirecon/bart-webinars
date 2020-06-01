@@ -20,9 +20,9 @@ Local time: [Click here](https://www.timeanddate.com/worldclock/fixedtime.html?m
   - Working with CLI tools and Matlab/Python wrappers [Jupyter Notebook](./cli_python_matlab_intro.ipynb)  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mrirecon/bart-webinars/master?filepath=cli_python_matlab_intro.ipynb)
   - Data preprocessing [Jupyter Notebook](./webinar-preprocessing.ipynb)  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mrirecon/bart-webinars/master?filepath=webinar-preprocessing.ipynb)
 
-- Part 3: [Jupyter Notebook](./day1_advanced_recon.ipynb)  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mrirecon/bart-webinars/master?filepath=day1_advanced_recon.ipynb)
-  - Compressed Sensing and non-Cartesian MRI reconstruction
-  - GRASP-like MRI reconstruction
+- Part 3:  
+  - Compressed Sensing and non-Cartesian MRI reconstruction [Jupyter Notebook](./day1_advanced_recon.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mrirecon/bart-webinars/master?filepath=day1_advanced_recon.ipynb)
+  - GRASP-like MRI reconstruction (same Jupyter Notebook as above)
 
 - Q&A and Conclusion
 
