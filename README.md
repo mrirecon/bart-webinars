@@ -28,7 +28,7 @@ Local time: [Click here](https://www.timeanddate.com/worldclock/fixedtime.html?m
 
 ### Schedule: Day 2
 - Introduction  
-- Intro to the C-programming library
+- Intro to the C-programming library [Slides](./Backend_Libraries_in_Bart.pdf)
 - Set up a build environment, compile, and run
 - Add command-line paramter to existing tool
 - Build a basic tool and system test [Jupyter Notebook](./day2_build_new_tool.ipynb)  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mrirecon/bart-webinars/master?filepath=day2_build_new_tool.ipynb)
