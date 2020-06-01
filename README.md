@@ -15,8 +15,8 @@ Local time: [Click here](https://www.timeanddate.com/worldclock/fixedtime.html?m
   - Discussion of file format and dimensions
 
 - Part 2:
-  - Working with CLI tools and Matlab/Python wrappers
-  - Data preprocessing
+  - Working with CLI tools and Matlab/Python wrappers [Jupyter Notebook](./day1_advanced_recon.ipynb)  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mrirecon/bart-webinars/master?filepath=cli_python_matlab_intro.ipynb)
+  - Data preprocessing [Jupyter Notebook](./day1_advanced_recon.ipynb)  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mrirecon/bart-webinars/master?filepath=webinar-preprocessing.ipynb)
 
 - Part 3: [Jupyter Notebook](./day1_advanced_recon.ipynb)  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mrirecon/bart-webinars/master?filepath=day1_advanced_recon.ipynb)
   - Compressed Sensing and non-Cartesian MRI reconstruction
