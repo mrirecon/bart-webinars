@@ -12,8 +12,10 @@ Local time: [Click here](https://www.timeanddate.com/worldclock/fixedtime.html?m
 
 - Part 1:
   - Where to find docs, examples, and help
+      (links: [Website](https://mrirecon.github.io/bart/) + [README](https://github.com/mrirecon/bart/blob/master/README) + [Documentation](https://github.com/mrirecon/bart/tree/master/doc) + [Tutorials](https://github.com/mrirecon/bart-workshop) + [Mailing List](https://lists.eecs.berkeley.edu/sympa/info/mrirecon))
   - Discussion of file format and dimensions
-
+      (links: [README: Data Format](https://github.com/mrirecon/bart/blob/master/README#L333) + [Documentation: Dimensions](https://github.com/mrirecon/bart/blob/master/doc/dimensions-and-strides.txt) + [Source Code: Predefined Dimensions](https://github.com/mrirecon/bart/blob/master/src/misc/mri.h#L15))
+       
 - Part 2:
   - Working with CLI tools and Matlab/Python wrappers [Jupyter Notebook](./cli_python_matlab_intro.ipynb)  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mrirecon/bart-webinars/master?filepath=cli_python_matlab_intro.ipynb)
   - Data preprocessing [Jupyter Notebook](./webinar-preprocessing.ipynb)  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mrirecon/bart-webinars/master?filepath=webinar-preprocessing.ipynb)
