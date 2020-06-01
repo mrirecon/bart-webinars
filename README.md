@@ -31,3 +31,6 @@ Local time: [Click here](https://www.timeanddate.com/worldclock/fixedtime.html?m
 - Add command-line paramter to existing tool
 - Build a basic tool and system test [Jupyter Notebook](./day2_build_new_tool.ipynb)  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mrirecon/bart-webinars/master?filepath=day2_build_new_tool.ipynb)
 - Q&A and Conclusion
+
+## Acknowledgements
+This work is supported by NIH Grant U24EB029240-01
