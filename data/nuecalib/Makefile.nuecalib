@@ -1,0 +1,2 @@
+MODULES_nuecalib = -lcalib -lnoncart -liter -llinops
+XTARGETS += nuecalib
