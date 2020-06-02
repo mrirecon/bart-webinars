@@ -5,9 +5,6 @@
 """
 
 import sys
-
-# you need to specify your own python directory under bart
-sys.path.append('/home/ztan/bart_webinar/python')
 import cfl
 
 import matplotlib.pyplot as plt
