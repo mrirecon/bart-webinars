@@ -1,5 +1,5 @@
 #!/bin/bash
-pip install bash_kernel 
+pip install bash_kernel numpy matplotlib
 python -m bash_kernel.install
 
 git clone https://github.com/mrirecon/bart/
