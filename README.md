@@ -29,7 +29,7 @@ Local time: [Click here](https://www.timeanddate.com/worldclock/fixedtime.html?m
 ### Schedule: Day 2
 - Introduction  
 - Part 1: Intro to the C-programming library [Slides](./Backend_Libraries_in_Bart.pdf)
- - Part 2: Set up a build environment, compile, and run (links: [README](https://github.com/mrirecon/bart/blob/master/README) + [Documentation: Building](https://github.com/mrirecon/bart/blob/master/doc/building.txt) + [Documentation](https://github.com/mrirecon/bart/blob/master/doc/building.txt)
+ - Part 2: Set up a build environment, compile, and run (links: [README](https://github.com/mrirecon/bart/blob/master/README) + [Documentation: Building](https://github.com/mrirecon/bart/blob/master/doc/building.txt) + [Documentation](https://github.com/mrirecon/bart/blob/master/doc/building.txt))
 - Part 3: Add command-line paramter to existing tool  
 - Part 4: Build a basic tool and system test [Jupyter Notebook](./day2_build_new_tool.ipynb)  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mrirecon/bart-webinars/master?filepath=day2_build_new_tool.ipynb)  
 - Q&A and Conclusion
