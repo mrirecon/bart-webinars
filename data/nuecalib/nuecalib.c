@@ -34,7 +34,7 @@
  * usage_str will display when the command is typed without arguments or with incorrect arguments
  * and should be indicate the basic input/output use.
  */
-static const char usage_str[] = "<kspace> <traj> <sensitivities>";
+static const char usage_str[] = "<traj> <kspace> <sensitivities>";
 
 /*
  * help_str will display with the -h argument, and should explain the tool usage in more detail
