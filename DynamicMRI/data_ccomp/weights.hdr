@@ -1,0 +1,8 @@
+# Dimensions
+1 180 80 1 1 1 1 1 1 1 18 1 1 1 1 1 
+# Command
+transpose 5 10 DCE_data/w_sorted data/weights 
+# Files
+ >data/weights <DCE_data/w_sorted
+# Creator
+BART v0.6.00

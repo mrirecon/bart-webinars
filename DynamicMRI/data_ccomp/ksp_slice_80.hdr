@@ -1,0 +1,8 @@
+# Dimensions
+1 180 80 6 1 1 1 1 1 1 18 1 1 1 1 1 
+# Command
+slice 0 80 data/ksp_all_slices data/ksp_slice_80 
+# Files
+ >data/ksp_slice_80 <data/ksp_all_slices
+# Creator
+BART v0.6.00
