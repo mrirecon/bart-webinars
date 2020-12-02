@@ -1,7 +1,7 @@
 
 A possible solution of the hands-on exercise is this:
 
-bart pics -d5 -i 100 -p data_ccomp/weights -R L:$(bart bitmask 0 1 2):$(bart bitmask 0 1 2):0.005 data_ccomp/ksp_slice_80 data_ccomp/sens_maps_slice_80 data_ccomp/recon_LLR
+bart pics -d5 -i 30 -p data_ccomp/weights -R L:$(bart bitmask 0 1 2):$(bart bitmask 0 1 2):0.005 data_ccomp/ksp_slice_80 data_ccomp/sens_maps_slice_80 data_ccomp/recon_LLR
 
 
 There are many other possible reconstructions - try to play with the number of iterations, block size (-b), and 

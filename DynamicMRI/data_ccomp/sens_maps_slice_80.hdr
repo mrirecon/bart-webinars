@@ -1,0 +1,8 @@
+# Dimensions
+1 180 80 6 2 1 1 1 1 1 1 1 1 1 1 1 
+# Command
+ecalib -a data_ccomp/ksp_slice_80_t0 data_ccomp/sens_maps_slice_80 
+# Files
+ >data_ccomp/sens_maps_slice_80 <data_ccomp/ksp_slice_80_t0
+# Creator
+BART v0.6.00
