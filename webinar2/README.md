@@ -3,8 +3,8 @@
 ### Schedule:
 - Introduction [Slides](./bart_webinar2_introduction.pdf)
 - Part 1: SENSE Reproducible Research Challenge
-  - Presentation
-  - Exercise
+  - Presentation [Slides](./reproducing_cgsense/bart_webinar_cgsense_challenge.pdf)
+  - Exercise [Jupyter Notebook](./reproducing_cgsense/cgsense_challenge.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mrirecon/bart-webinars/master?filepath=webinar2/reproducing_cgsense/cgsense_challenge.ipynb)
 - Part 2: 
   - Presentation [Slides](./dynamic_mri/bart_webinar_dynamic_mri.pdf)
   - Exercise 1 [Jupyter Notebook](./dynamic_mri/BART_DCE_demo.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mrirecon/bart-webinars/master?filepath=webinar2/dynamic_mri/BART_DCE_demo.ipynb)
