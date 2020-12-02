@@ -6,11 +6,11 @@ https://mrirecon.github.io/bart/webinars.html
 
 ## Webinar #1
 Recordings: [Click here](https://www.youtube.com/playlist?list=PLDaugjrMfSRF0WhQ0nbcH4zeHWZPboGDY)  
-Material: [`./webinar1`](./webinar1/)
+Material: [`./webinar1`](./webinar1/)  
 Date: June 1 and 2, 2020
 
 ## Webinar #2
-Material: [`./webinar2`](./webinar2/)
+Material: [`./webinar2`](./webinar2/)  
 Date: December 2, 2020
 
 ## Acknowledgements
