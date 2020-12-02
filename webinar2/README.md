@@ -1,7 +1,7 @@
 ## Webinar 2: December 2, 2020 8-10am PST
 
 ### Schedule:
-- Introduction
+- Introduction [Slides](./bart_webinar2_introduction.pdf)
 - Part 1: SENSE Reproducible Research Challenge
   - Presentation
   - Exercise
