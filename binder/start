@@ -3,6 +3,10 @@ cd bart
 . startup.sh
 cd ..
 
+cd view
+export PATH=`pwd`:${PATH}
+cd ..
+
 export PYTHONPATH="${TOOLBOX_PATH}/python:${PYTHONPATH}"
 
 exec "$@"
