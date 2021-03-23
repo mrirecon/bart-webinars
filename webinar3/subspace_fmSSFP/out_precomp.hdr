@@ -1,0 +1,8 @@
+# Dimensions
+384 384 1 1 1 1 8 1 1 1 1 1 1 1 1 1 
+# Command
+copy out out_precomp 
+# Files
+ >out_precomp <out
+# Creator
+BART v0.7.00
