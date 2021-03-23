@@ -11,10 +11,7 @@
 """
 
 import numpy as np
-import time
 from scipy.optimize import curve_fit
-import math
-from pylab import *
 
 import sys
 import os
@@ -85,8 +82,6 @@ class mapping_piecewise(object):
         self.para = sys.argv[2]
         self.TIfile = sys.argv[3]
         self.outfile = sys.argv[4]
-        
-        start = time.time()
        
         self.oridata = np.array( cfl.readcfl(self.infile).squeeze() ) #dim = [x, y, time, slice]
         self.TI = np.array( cfl.readcfl(self.TIfile).squeeze() ) 
@@ -99,7 +94,6 @@ class mapping_piecewise(object):
      
         cfl.writecfl(self.outfile, self.map)
         
-        end = time.time()
         print("Ellapsed time: " + str(end - start) + " s")
 
 
