@@ -3,7 +3,7 @@
 ### Schedule:
 - Introduction to subspace-constrained reconstruction
 - Exercise 1: frequency-modulated SSFP subspace reconstruction 
-- Exercise 2: phantom simulation tool 
+- Exercise 2: phantom simulation tool [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mrirecon/bart-webinars/master?filepath=webinar3/simu_phantom/tutorial_bart_simu_phantom.ipynb)
 - Exercise 3: inversion recovery FLASH 
 
 ## Acknowledgements
