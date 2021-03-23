@@ -1,5 +1,0 @@
-#!/bin/bash
-cd bart
-. startup.sh
-cd ..
-exec "$@"
