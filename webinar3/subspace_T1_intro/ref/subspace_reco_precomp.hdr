@@ -1,0 +1,8 @@
+# Dimensions
+384 384 1 1 1 1 4 1 1 1 1 1 1 1 1 1 
+# Command
+copy subspace_reco subspace_reco_precomp 
+# Files
+ >subspace_reco_precomp <subspace_reco
+# Creator
+BART v0.6.00-1518-g013b97bf
