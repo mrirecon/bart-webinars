@@ -1,0 +1,8 @@
+# Dimensions
+3 512 1 1 1 1 1 1 1 1 1020 1 1 1 1 1 
+# Command
+copy trajn trajn_precomp 
+# Files
+ >trajn_precomp <trajn
+# Creator
+BART v0.6.00-1518-g013b97bf

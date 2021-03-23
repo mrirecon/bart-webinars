@@ -1,0 +1,8 @@
+# Dimensions
+512 512 1 8 1 1 1 1 1 1 1 1 1 1 1 1 
+# Command
+copy sens_invivo sens_invivo_precomp 
+# Files
+ >sens_invivo_precomp <sens_invivo
+# Creator
+BART v0.6.00-1518-g013b97bf
