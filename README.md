@@ -4,6 +4,18 @@ This repository contains information and materials for the [BART](http://mrireco
 
 https://mrirecon.github.io/bart/webinars.html
 
+### Demo dependencies
+The demos use Jupyter notebooks with Python and Bash kernels. This is easiest to accomplish with Anaconda.
+After installing Anaconda, install the dependencies:
+```bash
+pip install bash_kernel numpy matplotlib h5py scipy
+```
+
+Finish installing the Bash kernel with the command,
+```bash
+python -m bash_kernel.install
+```
+
 ## Webinar #1
 Recordings: [Click here](https://www.youtube.com/playlist?list=PLDaugjrMfSRF0WhQ0nbcH4zeHWZPboGDY)  
 Material: [`./webinar1`](./webinar1/)  
