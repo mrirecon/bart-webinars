@@ -1,5 +1,7 @@
 ## Webinar 3: March 24, 2021 8-10am PDT
 
+Recordings: [Click here](https://www.youtube.com/watch?v=lhhGVYQLx_8&list=PLDaugjrMfSRH4OmKg3XBj0TUL2ocOeJC8)  
+
 ### Schedule:
 - Introduction to subspace-constrained reconstructions [Slides](./bart_webinar3_introduction.pdf)
 - Exercise 1: frequency-modulated SSFP subspace reconstruction [Jupyter Notebook](./subspace_fmSSFP/BART_fmSSFP_demo.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mrirecon/bart-webinars/master?filepath=webinar3/subspace_fmSSFP/BART_fmSSFP_demo.ipynb)

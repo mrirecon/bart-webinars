@@ -22,10 +22,12 @@ Material: [`./webinar1`](./webinar1/)
 Date: June 1 and 2, 2020
 
 ## Webinar #2
+Recordings: [Click here](https://www.youtube.com/playlist?list=PLDaugjrMfSRFj7WCtf9fuCeU2uN__4Tmi)  
 Material: [`./webinar2`](./webinar2/)  
 Date: December 2, 2020
 
 ## Webinar #3
+Recordings: [Click here](https://www.youtube.com/watch?v=lhhGVYQLx_8&list=PLDaugjrMfSRH4OmKg3XBj0TUL2ocOeJC8)  
 Material: [`./webinar3`](./webinar3/)  
 Date: March 24, 2021
 

@@ -1,5 +1,7 @@
 ## Webinar 2: December 2, 2020 8-10am PST
 
+Recordings: [Click here](https://www.youtube.com/playlist?list=PLDaugjrMfSRFj7WCtf9fuCeU2uN__4Tmi)  
+
 ### Schedule:
 - Introduction [Slides](./bart_webinar2_introduction.pdf)
 - Part 1: SENSE Reproducible Research Challenge
