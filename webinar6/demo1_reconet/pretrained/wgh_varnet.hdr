@@ -1,0 +1,14 @@
+# Dimensions
+36490 
+# SizesDimensions
+1 6 3 
+# MultiDimensions
+10 
+24 1 11 11 1 10 
+24 31 10 
+# Command
+reconet --network=varnet --gpu --normalize --train -T epochs=30,batchgen-shuffle-data --valid-data pattern=/scratch/mblum/bart_webinar/coronal_pd/pat,kspace=/scratch/mblum/bart_webinar/coronal_pd/val_ksp,coil=/scratch/mblum/bart_webinar/coronal_pd/val_col,ref=/scratch/mblum/bart_webinar/coronal_pd/val_ref --pattern=/scratch/mblum/bart_webinar/coronal_pd/pat /scratch/mblum/bart_webinar/coronal_pd/trn_ksp /scratch/mblum/bart_webinar/coronal_pd/trn_col wgh_varnet /scratch/mblum/bart_webinar/coronal_pd/trn_ref 
+# Files
+ <>/scratch/mblum/bart_webinar/coronal_pd/trn_ref <>wgh_varnet </scratch/mblum/bart_webinar/coronal_pd/trn_col </scratch/mblum/bart_webinar/coronal_pd/trn_ksp </scratch/mblum/bart_webinar/coronal_pd/val_ref </scratch/mblum/bart_webinar/coronal_pd/val_col </scratch/mblum/bart_webinar/coronal_pd/val_ksp </scratch/mblum/bart_webinar/coronal_pd/pat
+# Creator
+BART v0.7.00-357-gcf0baa7
