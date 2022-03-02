@@ -1,4 +1,3 @@
-
 ## Webinar 5: Sep 21, 2021 8-10am PDT
 
 Recordings: Posted after the webinar  
