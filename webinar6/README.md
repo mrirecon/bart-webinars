@@ -11,5 +11,7 @@ Recordings: Posted after the webinar
   - [Jupyter Notebook](./demo2_pics_tensorflow/bart_picstf.ipynb)
   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrirecon/bart-webinars/blob/master/webinar6/demo2_pics_tensorflow/bart_picstf.ipynb)
 
+For implementation details, we refer to our preprint [Deep, Deep Learning with BART](https://arxiv.org/abs/2202.14005).
+
 ## Acknowledgements
 This work is supported by NIH Grant U24EB029240-01
