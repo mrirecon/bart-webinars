@@ -1,0 +1,8 @@
+# Dimensions
+1 27121 3 16 1 1 1 1 1 1 1 1 1 1 1 1 
+# Command
+copy rawdata raw_spiral 
+# Files
+ <>raw_spiral <rawdata
+# Creator
+BART v0.8.00-137-g0566c51

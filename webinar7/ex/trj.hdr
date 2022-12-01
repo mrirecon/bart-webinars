@@ -1,0 +1,8 @@
+# Dimensions
+3 512 256 1 1 1 1 1 1 1 1 1 1 1 1 1 
+# Command
+traj -x256 -y256 -r -o2 trj 
+# Files
+ >trj
+# Creator
+BART v0.8.00-158-g4935428

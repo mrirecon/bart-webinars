@@ -1,0 +1,8 @@
+# Dimensions
+1 512 256 8 1 1 1 1 1 1 1 1 1 1 1 1 
+# Command
+fovshift -t trj -s0.25:0.25:0 ksp_os ksp 
+# Files
+ >ksp <ksp_os <trj
+# Creator
+BART v0.8.00-158-g4935428
