@@ -18,3 +18,6 @@ Deep dive into non-Cartesian reconstruction with BART
    - Tools for Bloch/EPG simulations
 - ESMRMB MRI Together Workshop, Dec 5-12 (free to attend, https://mritogether.esmrmb.org)
    - Dec 8: Maintaining Scientific Open-Source Software: 10 Years' Experience from the BART Project
+- Website updated:
+   - Organized into sections, e.g. Downloads, Tutorials, Webinars, etc.
+   - Part of ongoing documentation work
