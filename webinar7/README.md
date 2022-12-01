@@ -3,8 +3,10 @@
 
 Recordings: Posted after the webinar  
 
-### Schedule:
-TBD
+### A Deep Dive into Non-Cartesian MRI   
+  - [Jupyter Notebook](./demo_noncart.ipynb)
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrirecon/bart-webinars/blob/master/webinar7/demo_noncart.ipynb)
 
 
 ## Acknowledgements
+This work is supported by NIH Grant U24EB029240-01
