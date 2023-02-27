@@ -1,7 +1,7 @@
 
 ## Webinar 6: Mar 01, 2022 8-10am PDT
 
-Recordings: Posted after the webinar  
+Recordings: [Click here](https://www.youtube.com/playlist?list=PLDaugjrMfSREpNZFw2yOfLi-S-CTPjPR4)  
 
 ### Schedule:
 - **Demo**: Using the BART reconet command to train neural networks (The Variational Network / MoDL)

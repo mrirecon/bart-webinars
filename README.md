@@ -32,17 +32,17 @@ Material: [`./webinar3`](./webinar3/)
 Date: March 24, 2021
 
 ## Webinar #4
-Recordings: TBD  
+Recordings: [Click here](https://www.youtube.com/playlist?list=PLDaugjrMfSRFRcOwONdIWJRH0M22AM39B)  
 Material: [`./webinar4`](./webinar4/)  
 Date: July 14, 2021
 
 ## Webinar #5
-Recordings: TBD  
+Recordings: [Click here](https://www.youtube.com/playlist?list=PLDaugjrMfSRHxaYpm3xiJUj6UlBjqFJau)  
 Material: [`./webinar5`](./webinar5/)  
 Date: September 21, 2021
 
 ## Webinar #6
-Recordings: TBD  
+Recordings: [Click here](https://www.youtube.com/playlist?list=PLDaugjrMfSREpNZFw2yOfLi-S-CTPjPR4)  
 Material: [`./webinar6`](./webinar6/)  
 Date: March 1, 2022
 

@@ -1,6 +1,6 @@
 ## Webinar 5: Sep 21, 2021 8-10am PDT
 
-Recordings: Posted after the webinar  
+Recordings: [Click here](https://www.youtube.com/playlist?list=PLDaugjrMfSRHxaYpm3xiJUj6UlBjqFJau)  
 
 The main  content for this webinar is available at [github.com/mrirecon/bartpy](https://github.com/mrirecon/bartpy)
 

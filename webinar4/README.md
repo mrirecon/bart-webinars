@@ -1,6 +1,7 @@
 ## Webinar 4: July 14, 2021 8-10am PDT
 
-Recordings: Posted after the webinar  
+Recordings: [Click here](https://www.youtube.com/playlist?list=PLDaugjrMfSRFRcOwONdIWJRH0M22AM39B)  
+
 
 ### Schedule:
 - **Introduction**
