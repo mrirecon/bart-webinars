@@ -47,9 +47,14 @@ Material: [`./webinar6`](./webinar6/)
 Date: March 1, 2022
 
 ## Webinar #7
-Recordings: TBD  
+Recordings: [Click here](https://www.youtube.com/watch?v=usAI5S6OPuc)  
 Material: [`./webinar7`](./webinar7/)  
 Date: December 1, 2022
+
+## Webinar #8
+Recordings: TBD  
+Material: [`./webinar8`](./webinar8/)  
+Date: April 9, 2024
 
 ## Acknowledgements
 This work is supported by NIH Grant U24EB029240-01
