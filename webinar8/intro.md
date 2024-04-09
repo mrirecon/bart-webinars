@@ -4,7 +4,6 @@ Reconstructing 3D Cartesian data with BART
 1. 3D pre-processing
 1. Distributed 3D reconstruction
 1. 3D post-processing
-1. Fully integrating with GE Orchestra
 1. Q/A
 
 
