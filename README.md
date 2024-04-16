@@ -52,7 +52,7 @@ Material: [`./webinar7`](./webinar7/)
 Date: December 1, 2022
 
 ## Webinar #8
-Recordings: TBD  
+Recordings: [Click here](https://youtu.be/nBqECv531CU?si=8Gz0mCODd35R1D7w)  
 Material: [`./webinar8`](./webinar8/)  
 Date: April 9, 2024
 
