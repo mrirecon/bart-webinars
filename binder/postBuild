@@ -10,7 +10,7 @@ cd ..
 
 git clone https://github.com/mrirecon/view/
 cd view
-PARALLEL=1 TOOLBOX_PATH=../bart make cfl2png
+PARALLEL=1 BART_TOOLBOX_PATH=../bart make cfl2png
 
 
 

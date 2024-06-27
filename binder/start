@@ -1,12 +1,14 @@
 #!/bin/bash
 cd bart
 . startup.sh
+# for backwards combatibility of old webinars:
+export TOOLBOX_PATH="${BART_TOOLBOX_PATH}"
 cd ..
 
 cd view
 export PATH=`pwd`:${PATH}
 cd ..
 
-export PYTHONPATH="${TOOLBOX_PATH}/python:${PYTHONPATH}"
+export PYTHONPATH="${BART_TOOLBOX_PATH}/python:${PYTHONPATH}"
 
 exec "$@"
